@@ -48,6 +48,8 @@ Here is the folder structure of this app.
 brainwave/
   |- public/
   |- src/
+    |-- .utils/
+      |--- generate.ts
     |-- assets/
     |-- components/
       |--- design/
